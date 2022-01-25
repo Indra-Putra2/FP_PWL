@@ -104,7 +104,7 @@ $total_halaman = ceil($jumlah_data / $batas);
       
       <div class="col-md-12 mx-auto p-4 ">
           <div>
-          <a class="btn btn-primary text-white mt-2" href="tambahstudent.php">TAMBAH</a>
+          <a class="btn btn-primary text-white mt-2" href="tambahstudent.php"><span class="bi bi-plus-square"> TAMBAH</span></a>
           </div>
           <div class="pesan m-3">
             <?php 
